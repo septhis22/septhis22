@@ -58,13 +58,6 @@ Currently studying CS + Cybersecurity @ **IIIT Kottayam** — but most of my tim
 
 ---
 
-## 📊 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=septhis22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)](https://github.com/septhis22)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=septhis22&theme=tokyonight-duo&hide_border=true&background=0d1117)](https://github.com/septhis22)
-
----
 
 ## ✨ Highlights
 
