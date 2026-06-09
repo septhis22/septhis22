@@ -5,7 +5,7 @@ Currently studying CS + Cybersecurity @ **IIIT Kottayam** — but most of my tim
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-kumar-gour)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshgg1234@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mecha-Harsh)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/septhis22)
 
 ---
 
@@ -15,9 +15,9 @@ Currently studying CS + Cybersecurity @ **IIIT Kottayam** — but most of my tim
 
 | Project | Description | Stack |
 |---|---|---|
-| **[ALLNotes](https://github.com/Mecha-Harsh/ALLNotes)** | Real-time collaborative note-taking app with offline-first sync, CRDT-based conflict resolution, and 39+ production deployments | `TypeScript` `Node.js` `Yjs` `CRDTs` `WebSockets` `PostgreSQL` `Supabase` `IndexedDB` |
-| **[ABEFileStore](https://github.com/Mecha-Harsh/ABEFileStore)** | Encrypted file storage with attribute-based access control — 3-layer hybrid encryption pipeline, zero plaintext server exposure | `Python` `FastAPI` `PostgreSQL` `Docker` `AWS S3` `React` `TypeScript` |
-| **[UniVoice](https://github.com/Mecha-Harsh/UniVoice)** | Full-stack news platform with multi-role auth, content moderation pipeline, and full CRUD lifecycle | `React` `Node.js` `Express.js` `MongoDB` `JWT` `REST APIs` |
+| **[ALLNotes](https://github.com/septhis22/ALLNotes)** | Real-time collaborative note-taking app with offline-first sync, CRDT-based conflict resolution, and 39+ production deployments | `TypeScript` `Node.js` `Yjs` `CRDTs` `WebSockets` `PostgreSQL` `Supabase` `IndexedDB` |
+| **[ABEFileStore](https://github.com/septhis22/ABEFileStore)** | Encrypted file storage with attribute-based access control — 3-layer hybrid encryption pipeline, zero plaintext server exposure | `Python` `FastAPI` `PostgreSQL` `Docker` `AWS S3` `React` `TypeScript` |
+| **[UniVoice](https://github.com/septhis22/UniVoice)** | Full-stack news platform with multi-role auth, content moderation pipeline, and full CRUD lifecycle | `React` `Node.js` `Express.js` `MongoDB` `JWT` `REST APIs` |
 
 ---
 
@@ -60,9 +60,9 @@ Currently studying CS + Cybersecurity @ **IIIT Kottayam** — but most of my tim
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mecha-Harsh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)](https://github.com/Mecha-Harsh)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=septhis22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)](https://github.com/septhis22)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mecha-Harsh&theme=tokyonight-duo&hide_border=true&background=0d1117)](https://github.com/Mecha-Harsh)
+[![GitHub Streak](https://streak-stats.demolab.com?user=septhis22&theme=tokyonight-duo&hide_border=true&background=0d1117)](https://github.com/septhis22)
 
 ---
 
@@ -79,4 +79,4 @@ Currently studying CS + Cybersecurity @ **IIIT Kottayam** — but most of my tim
 - **LinkedIn:** [linkedin.com/in/harsh-kumar-gour](https://linkedin.com/in/harsh-kumar-gour)
 - **Email:** [harshgg1234@gmail.com](mailto:harshgg1234@gmail.com)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Mecha-Harsh&color=58a6ff&style=flat-square&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=septhis22&color=58a6ff&style=flat-square&label=Profile+Views)
